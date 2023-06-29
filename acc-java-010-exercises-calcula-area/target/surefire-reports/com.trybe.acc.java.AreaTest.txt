@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.trybe.acc.java.AreaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.018 s <<< FAILURE! - in null
+com.trybe.acc.java.AreaTest.testeMain  Time elapsed: 0.012 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <A area do quadrado de lado 3.0 é igual a 9.0> but was: <Digite a medida do lado do quadrado:>
+	at com.trybe.acc.java.AreaTest.testeMain(AreaTest.java:36)
+
